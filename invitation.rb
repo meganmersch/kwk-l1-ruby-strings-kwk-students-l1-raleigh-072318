@@ -5,7 +5,7 @@ puts "What is the name of the party?"
 party_name = gets
 puts "When is the party?"
 date = gets
-puts "What time is the party"
+puts "What time is the party?"
 time = gets
 puts "Who is the host of the party"
 host_name = gets
