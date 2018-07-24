@@ -1,5 +1,5 @@
 # Code your prompts here!
-puts "Who is coming to the party?"
+puts "Hi, you've been invited to a party! What is your name?"
 guest_name = gets
 puts "What is the name of the party?"
 party_name = gets
