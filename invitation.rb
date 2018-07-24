@@ -1,4 +1,5 @@
 # Code your prompts here!
+puts "Welcome to Custon Invitation Maker!!"
 puts "Who is coming to the party?"
 guest_name = gets
 puts "What is the name of the party?"
